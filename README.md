@@ -8,8 +8,8 @@
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/aryan-karmani29/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/aryankarmani))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/aryan-karmani29/))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]((https://github.com/aryankarmani))
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aryankarmani2003@gmail.com)
 
 ---
