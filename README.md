@@ -38,6 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
